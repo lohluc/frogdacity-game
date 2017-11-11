@@ -1,7 +1,8 @@
-# Frogdacity 🐸
-**Project Demo:** [Help Frogger reaching the water safely. Live and now 🏁](https://lohluc.github.io/frogdacity-game)
+# 🐸 Frogdacity 🐸
+**Project Demo:** [Help Sam reaching the water safely. Live and now!](https://lohluc.github.io/frogdacity-game)
 
-![Ripple Effect Demo Gif](https://i.imgur.com/1NCSObR.gif)
+
+![Frogdacity Demo Gif](https://media.giphy.com/media/26u46hgmviIcCey8o/giphy.gif)
 
 ## Classic arcade game built with object-oriented JavaScript.
 Frogdacity is a jump and run game I've built during my [Udacity Front-End Web Development Nanodegree](https://de.udacity.com/course/front-end-web-developer-nanodegree--nd001/).
