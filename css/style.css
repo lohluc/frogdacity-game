@@ -1,5 +1,7 @@
 html {
-    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
 }
 
 body {
@@ -35,8 +37,6 @@ canvas {
     height: 500px;
 }
 
-
-/* Tutorial at http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/ */
 .modalDialog {
 	position: fixed;
 	font-family: sans-serif;
