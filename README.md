@@ -3,18 +3,7 @@
 
 Frogdacity is a classic arcade game built with object-oriented JavaScript. I created it during my [Udacity Front-End Web Development Nanodegree](https://de.udacity.com/course/front-end-web-developer-nanodegree--nd001/). It's a simple version of [Frogger](https://en.wikipedia.org/wiki/Frogger).
 
-![Frogdacity Demo Gif](github/frogdacity.gif)
-
-## Getting Started
-
-### Installing
-
-```
-Example
-```
-```
-Example
-```
+![Frogdacity Demo Gif](.github/frogdacity.gif)
 
 ## How to play the game
 
