@@ -1,14 +1,11 @@
 # Frogdacity
+[🐸 Play it here 🐸](https://lohluc.github.io/frogdacity-game)
 ## Classic arcade game built with object-oriented JavaScript.
 Frogdacity is a jump and run game I've built during my [Udacity Front-End Web Development Nanodegree](https://de.udacity.com/course/front-end-web-developer-nanodegree--nd001/).
 It's a simple version of [Frogger](https://en.wikipedia.org/wiki/Frogger).
 
 ### How to start the game
-1) Download the repo and open the index.html in your browser. 
 
-**or**
-
-2) Open https://lohluc.github.io/frogdacity-game in your browser.
 ### How to play game
 The game uses keyboard input to move the player around the board.
 
